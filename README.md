@@ -1,4 +1,5 @@
-# tugas01
+# tugas1
+
 ![git aldi](https://user-images.githubusercontent.com/46733448/51818388-589af300-2301-11e9-9cf5-6fb0f43adf0d.png)
 Sekarang, setelah GIT di-install di komputer Anda, mari kita pelajari dasar GIT dan bagaimana cara menggunakan GIT.
 
