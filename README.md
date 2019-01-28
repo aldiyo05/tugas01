@@ -27,7 +27,7 @@ jika sudah memiliki proyek yang ingin diletakkan di repository online, buka saja
 git init 
 git add . 
 git commit -m "first commit" 
-git remote add origin https://github.com/aisy/js-belajar-react.git 
+git remote add origin https://github.com/aldiyo05/tugas01 
 git push -u origin master
 Keterangan perintah diatas seperti ini :
 git init
